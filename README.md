@@ -6,7 +6,7 @@
 ### Para essse teste foi sugerido fazer uma API de cadastro, utilizando API externa como complemento de informações para consulta de Endereço baseado no CEP.
 
 <br>
-__Considerações__
+Considerações __This part de the text__
 <br>
 
 O teste Foi desenvolvido utilizando o meu conhecimento do dia a dia.
