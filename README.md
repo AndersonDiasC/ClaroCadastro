@@ -1,3 +1,3 @@
 # ClaroCadastro
 
-**Teste Para vaga de Desenvolvedor Java Claro
+* Teste Para vaga de Desenvolvedor Java Claro
